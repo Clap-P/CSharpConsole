@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Cours .NET": {
+      "commandName": "Project",
+      "commandLineArgs": "salaire1\r\ntaxe1"
+    },
+    "Cours .NET/first-app": {
+      "commandName": "Project"
+    }
+  }
+}
